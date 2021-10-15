@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Advertisement\Advertisement\obj\Debug\Advertisement.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Advertisement\Advertisement\obj\Debug\Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Advertisement\Advertisement\bin\Debug\Advertisement.exe.config
+C:\Users\HP\source\repos\Advertisement\Advertisement\bin\Debug\Advertisement.exe
+C:\Users\HP\source\repos\Advertisement\Advertisement\bin\Debug\Advertisement.pdb
+C:\Users\HP\source\repos\Advertisement\Advertisement\obj\Debug\Advertisement.exe
+C:\Users\HP\source\repos\Advertisement\Advertisement\obj\Debug\Advertisement.pdb
